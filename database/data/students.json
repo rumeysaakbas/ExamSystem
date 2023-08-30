@@ -1,0 +1,82 @@
+[
+    {
+        "student_number": 101,
+        "name": "Ahmet Yılmaz"
+    },
+    {
+        "student_number": 102,
+        "name": "Ayşe Kara"
+    },
+    {
+        "student_number": 103,
+        "name": "Mehmet Demir"
+    },
+    {
+        "student_number": 104,
+        "name": "Zeynep Yılmaz"
+    },
+    {
+        "student_number": 105,
+        "name": "Eren Kaya"
+    },
+    {
+        "student_number": 106,
+        "name": "Elif Çelik"
+    },
+    {
+        "student_number": 107,
+        "name": "Ali Şahin"
+    },
+    {
+        "student_number": 108,
+        "name": "Emine Öz"
+    },
+    {
+        "student_number": 109,
+        "name": "Berk Aksoy"
+    },
+    {
+        "student_number": 110,
+        "name": "Selin Öztürk"
+    },
+    {
+        "student_number": 111,
+        "name": "Can Koç"
+    },
+    {
+        "student_number": 112,
+        "name": "Ceren Yıldız"
+    },
+    {
+        "student_number": 113,
+        "name": "Mert Aydın"
+    },
+    {
+        "student_number": 114,
+        "name": "Deniz Alkan"
+    },
+    {
+        "student_number": 115,
+        "name": "Sude Kılıç"
+    },
+    {
+        "student_number": 116,
+        "name": "Buse Çetin"
+    },
+    {
+        "student_number": 117,
+        "name": "Kaan Gül"
+    },
+    {
+        "student_number": 118,
+        "name": "Yağmur Duran"
+    },
+    {
+        "student_number": 119,
+        "name": "Okan Tekin"
+    },
+    {
+        "student_number": 120,
+        "name": "Gizem Çalışkan"
+    }
+]

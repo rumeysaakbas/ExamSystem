@@ -1,0 +1,472 @@
+[
+    {
+        "student_id": 1,
+        "student_number": 101,
+        "student_name": "Ahmet Y\u0131lmaz",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 1",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 2",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 3",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 4",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 5",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    },
+    {
+        "student_id": 2,
+        "student_number": 102,
+        "student_name": "Ay\u015fe Kara",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 4",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 5",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 6",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 7",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 8",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    },
+    {
+        "student_id": 3,
+        "student_number": 103,
+        "student_name": "Mehmet Demir",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 7",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 8",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 9",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 10",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 11",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    },
+    {
+        "student_id": 4,
+        "student_number": 104,
+        "student_name": "Zeynep Y\u0131lmaz",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 10",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 11",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 12",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 13",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 14",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    },
+    {
+        "student_id": 5,
+        "student_number": 105,
+        "student_name": "Eren Kaya",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 13",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 14",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 15",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 16",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 17",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    },
+    {
+        "student_id": 6,
+        "student_number": 106,
+        "student_name": "Elif \u00c7elik",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 16",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 17",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 18",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 19",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 20",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    },
+    {
+        "student_id": 7,
+        "student_number": 107,
+        "student_name": "Ali \u015eahin",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 19",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 20",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 21",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 22",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 23",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    },
+    {
+        "student_id": 8,
+        "student_number": 108,
+        "student_name": "Emine \u00d6z",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 22",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 23",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 24",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 25",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 26",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    },
+    {
+        "student_id": 9,
+        "student_number": 109,
+        "student_name": "Berk Aksoy",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 25",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 26",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 27",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 28",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 29",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    },
+    {
+        "student_id": 10,
+        "student_number": 110,
+        "student_name": "Selin \u00d6zt\u00fcrk",
+        "student_questions": [
+            {
+                "question_bank_id": 1,
+                "text": "Soru 28",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 29",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 30",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 1",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            },
+            {
+                "question_bank_id": 1,
+                "text": "Soru 2",
+                "option_a": "A se\u00e7ene\u011fi",
+                "option_b": "B se\u00e7ene\u011fi",
+                "option_c": "C se\u00e7ene\u011fi",
+                "option_d": "D se\u00e7ene\u011fi"
+            }
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "student_id": 1,
+        "exam_id": 1,
+        "score": 85
+    },
+    {
+        "student_id": 1,
+        "exam_id": 2,
+        "score": 92
+    },
+    {
+        "student_id": 2,
+        "exam_id": 1,
+        "score": 78
+    },
+    {
+        "student_id": 2,
+        "exam_id": 2,
+        "score": 88
+    },
+    {
+        "student_id": 3,
+        "exam_id": 1,
+        "score": 70
+    },
+    {
+        "student_id": 3,
+        "exam_id": 2,
+        "score": 95
+    },
+    {
+        "student_id": 4,
+        "exam_id": 1,
+        "score": 80
+    },
+    {
+        "student_id": 4,
+        "exam_id": 2,
+        "score": 40
+    },
+    {
+        "student_id": 5,
+        "exam_id": 1,
+        "score": 50
+    },
+    {
+        "student_id": 5,
+        "exam_id": 2,
+        "score": 20
+    },
+    {
+        "student_id": 6,
+        "exam_id": 1,
+        "score": 30
+    },
+    {
+        "student_id": 6,
+        "exam_id": 2,
+        "score": 70
+    },
+    {
+        "student_id": 7,
+        "exam_id": 1,
+        "score": 20
+    },
+    {
+        "student_id": 7,
+        "exam_id": 2,
+        "score": 30
+    },
+    {
+        "student_id": 8,
+        "exam_id": 1,
+        "score": 20
+    },
+    {
+        "student_id": 8,
+        "exam_id": 2,
+        "score": 25
+    },
+    {
+        "student_id": 9,
+        "exam_id": 1,
+        "score": 90
+    },
+    {
+        "student_id": 9,
+        "exam_id": 2,
+        "score": 90
+    },
+    {
+        "student_id": 10,
+        "exam_id": 1,
+        "score": 60
+    },
+    {
+        "student_id": 10,
+        "exam_id": 2,
+        "score": 60
+    },
+    {
+        "student_id": 11,
+        "exam_id": 1,
+        "score": 85
+    },
+    {
+        "student_id": 11,
+        "exam_id": 2,
+        "score": 92
+    },
+    {
+        "student_id": 12,
+        "exam_id": 1,
+        "score": 70
+    },
+    {
+        "student_id": 12,
+        "exam_id": 2,
+        "score": 80
+    },
+    {
+        "student_id": 13,
+        "exam_id": 1,
+        "score": 75
+    },
+    {
+        "student_id": 13,
+        "exam_id": 2,
+        "score": 35
+    },
+    {
+        "student_id": 14,
+        "exam_id": 1,
+        "score": 55
+    },
+    {
+        "student_id": 14,
+        "exam_id": 2,
+        "score": 55
+    },
+    {
+        "student_id": 15,
+        "exam_id": 1,
+        "score": 95
+    },
+    {
+        "student_id": 15,
+        "exam_id": 2,
+        "score": 85
+    },
+    {
+        "student_id": 16,
+        "exam_id": 1,
+        "score": 35
+    },
+    {
+        "student_id": 16,
+        "exam_id": 2,
+        "score": 70
+    },
+    {
+        "student_id": 17,
+        "exam_id": 1,
+        "score": 40
+    },
+    {
+        "student_id": 17,
+        "exam_id": 2,
+        "score": 45
+    },
+    {
+        "student_id": 18,
+        "exam_id": 1,
+        "score": 80
+    },
+    {
+        "student_id": 18,
+        "exam_id": 2,
+        "score": 85
+    },
+    {
+        "student_id": 19,
+        "exam_id": 1,
+        "score": 95
+    },
+    {
+        "student_id": 19,
+        "exam_id": 2,
+        "score": 80
+    },
+    {
+        "student_id": 20,
+        "exam_id": 1,
+        "score": 45
+    },
+    {
+        "student_id": 20,
+        "exam_id": 2,
+        "score": 40
+    }
+]
